@@ -24,3 +24,7 @@
 
 - Remade all the version of website in old website (nisayanmode, nawee and something)
 - Made the Projects and Information website.
+
+## Font
+
+- Lexend Deca
